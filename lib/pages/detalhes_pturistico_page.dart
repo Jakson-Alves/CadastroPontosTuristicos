@@ -11,6 +11,7 @@ class DetalhesTarefaPage extends StatefulWidget {
   _DetalhesTarefaPageState createState() => _DetalhesTarefaPageState();
 }
 
+//Página de Detalhes da Tarefa
 class _DetalhesTarefaPageState extends State<DetalhesTarefaPage> {
   @override
   Widget build(BuildContext context) {
